@@ -184,7 +184,7 @@ export default function Hero() {
           >
             {/* Small badge */}
 
-            <motion.div
+            {/* <motion.div
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{
@@ -195,7 +195,7 @@ export default function Hero() {
             >
               <span className="h-2 w-2 rounded-full bg-primary animate-pulse" />
               Available for remote work
-            </motion.div>
+            </motion.div> */}
 
             {/* Heading */}
 

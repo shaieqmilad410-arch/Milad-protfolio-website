@@ -105,7 +105,7 @@ function WelcomePopup() {
 
             {/* Greeting */}
             <div className="flex items-start gap-3 pr-7">
-              <motion.div
+              {/* <motion.div
                 animate={{
                   rotate: [0, -8, 8, -5, 5, 0],
                   scale: [1, 1.08, 1],
@@ -126,13 +126,11 @@ function WelcomePopup() {
                   text-white
                   backdrop-blur-sm
                 "
-              >
-                <Gift size={19} />
-              </motion.div>
+              ></motion.div> */}
 
               <div>
-                <p className="text-md font-medium text-blue-100">
-                  👋 Welcome to my portfolio
+                <p className="text-md  font-medium text-blue-100">
+                  Welcome to my portfolio
                 </p>
 
                 {/* <h3 className="mt-1 text-sm font-bold text-white sm:text-base">
