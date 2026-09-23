@@ -27,7 +27,7 @@ const Navbar = () => {
     >
       <nav className="mx-auto flex h-20 max-w-7xl items-center justify-between px-5 sm:px-8 lg:px-10">
         {/* Logo */}
-        <motion.a
+        {/* <motion.a
           href="#home"
           whileHover={{ scale: 1.03 }}
           whileTap={{ scale: 0.97 }}
@@ -41,7 +41,12 @@ const Navbar = () => {
           <span className="hidden text-xs font-medium text-secondary sm:block">
             Developer
           </span>
-        </motion.a>
+        </motion.a> */}
+        <img
+          src="/WhatsApp_Image_2026-09-22_at_11.34.07_AM-removebg-preview.png"
+          className="w-40 h-20 object-cover"
+          alt="Milad shaieq"
+        />
 
         {/* Desktop Navigation */}
         <div className="hidden items-center gap-7 lg:flex">
