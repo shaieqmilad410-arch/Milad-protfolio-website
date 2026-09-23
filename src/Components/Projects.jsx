@@ -4,22 +4,22 @@ import { FaGithub } from "react-icons/fa";
 
 const projects = [
   {
-    title: "Dental Clinic Website",
+    title: "Dr.waris Tasal Dental Clinic Website",
     description:
       "A modern and responsive dental clinic website designed to provide a professional online presence and make it easy for patients to explore services and contact the clinic.",
     category: "Web Development",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
-    image: "/image1 (1).png",
+    image: "/tasal web.JPG",
     github: "#",
     live: "#",
   },
   {
-    title: "Amazon Business Platform",
+    title: "Sami AMZ pro Amazon Business Platform",
     description:
       "A professional educational platform designed to present Amazon business courses, success stories, FAQs, and contact information through a modern responsive interface.",
     category: "Web Development",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
-    image: "/image1 (2).png",
+    image: "/sami web.JPG",
     github: "#",
     live: "#",
   },
@@ -29,9 +29,10 @@ const projects = [
       "A clean business website concept focused on strong visual hierarchy, responsive layouts, reusable components, and a polished user experience.",
     category: "UI Development",
     technologies: ["React", "Tailwind CSS", "JavaScript"],
-    image: "/image1 (3).png",
+    image:
+      "/freelancers-and-startups-business-website-template-141119-1610385954426-cover.webp",
     github: "#",
-    live: "https://abargaam.com/",
+    live: "#",
   },
 ];
 

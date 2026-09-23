@@ -12,6 +12,7 @@ import Footer from "./Components/Footer";
 const App = () => {
   return (
     <div>
+      
       <WelcomePopup />
       <Navbar />
       <BrowserRouter>
